@@ -1,0 +1,2 @@
+# smashing
+Smashing Magazine
